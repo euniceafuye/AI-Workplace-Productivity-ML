@@ -1,9 +1,9 @@
-# AI-Enhanced Workplace Productivity: A Comparative Model Study
+# AI-Enhanced Workplace Productivity: A ML Comparative Model Study
 
 This project analyzes the impact of Artificial Intelligence on employee productivity through a comparative Machine Learning approach. The main goal is to predict the **Productivity Score** of employees by benchmarking various regression algorithms to identify the one with the highest predictive power and best generalization.
 
 ## 📊 Project Objective
-The focus of this project is to evaluate and compare multiple Machine Learning models. By testing different architectures—ranging from simple linear models to complex ensemble methods—I aimed to determine the most effective way to capture the relationship between AI usage, work habits, and output.
+The focus of this project is to evaluate and compare multiple Machine Learning models. By testing different architectures—ranging from simple linear models to complex ensemble methods. I aimed to determine the most effective way to capture the relationship between AI usage, work habits, and output.
 
 ## 🛠️ Machine Learning Pipeline
 A rigorous workflow was followed to ensure a fair comparison between models:
